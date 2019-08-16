@@ -9,28 +9,28 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
-	<icon src="icon.png" width="1024" height="1024" />
+	<icon src="www/icon.png" width="1024" height="1024" />
 	<platform name="ios">
-		<icon src="icon-1024x1024.png" width="1024" height="1024" />
+		<icon src="www/icon-1024x1024.png" width="1024" height="1024" />
 		<!-- iPhone 6 / 6+ -->
-		<icon src="icon-180x180.png" width="180" height="180" />
+		<icon src="www/icon-180x180.png" width="180" height="180" />
 
 		<!-- iPhone / iPod Touch  -->
-		<icon src="icon-60x60.png" width="60" height="60" />
-		<icon src="icon-120x120.png" width="120" height="120" />
+		<icon src="www/icon-60x60.png" width="60" height="60" />
+		<icon src="www/icon-120x120.png" width="120" height="120" />
 
 		<!-- iPad -->
-		<icon src="icon-76x76.png" width="76" height="76" />
-		<icon src="icon-152x152.png" width="152" height="152" />
-		<icon src="icon-167x167.png" width="167" height="167" />
+		<icon src="www/icon-76x76.png" width="76" height="76" />
+		<icon src="www/icon-152x152.png" width="152" height="152" />
+		<icon src="www/icon-167x167.png" width="167" height="167" />
 
 		<!-- Settings Icon -->
-		<icon src="icon-29x29.png" width="29" height="29" />
-		<icon src="icon-58x58.png" width="58" height="58" />
-		<icon src="icon-87x87.png" width="87" height="87" />
+		<icon src="www/icon-29x29.png" width="29" height="29" />
+		<icon src="www/icon-58x58.png" width="58" height="58" />
+		<icon src="www/icon-87x87.png" width="87" height="87" />
 
 		<!-- Spotlight Icon -->
-		<icon src="icon-40x40.png" width="40" height="40" />
-		<icon src="icon-80x80.png" width="80" height="80" />
+		<icon src="www/icon-40x40.png" width="40" height="40" />
+		<icon src="www/icon-80x80.png" width="80" height="80" />
 	</platform>
 </widget>
